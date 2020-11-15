@@ -1,5 +1,5 @@
 # event-playbook
- Guidelines for Media Advisory, Press Release, Printers and Talking Press
+ Guidelines for Media Advisory, Press Release, Speaker Prep, and Security Planning.
 
 # Purpose
 Any action requires tremendous trust from the community, from partners. Building that trust requires clear planning, resolving concerns and anxieties, and creating a dependable foundation for the _collective vision of all stakeholders_ takes shape.
