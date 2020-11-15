@@ -46,7 +46,7 @@ A week prior to the event _or as soon as details finalize if an emergency_.
 ## How to write it:
 'Work in Progress'
 
-# Talking Points and Speaker Prep
+# Talking Points and Speaker Prep (Pending)
 ## What it's for:
 Prepare both organizers of the events, speakers, and coalition partners.
 
@@ -54,9 +54,9 @@ Prepare both organizers of the events, speakers, and coalition partners.
 'Work in Progress'
 
 ## How to structure it:
-Finalized week of event.
+'Work in Progress'
 
-# Security Plan
+# Security Plan (Pending)
 ## What it's for:
 Helps coordinate event security, parade marshalls, observers, key stakeholders. This document helps to ease fears and tensions around events.
 
