@@ -11,24 +11,24 @@ There will be completed examples in the _examples_ folder and ready-to-enter tem
 
 ## Media Advisory
 ### What it's for:
-Alerts the press of an upcoming event so that they can plan to attend _as it happens_ and allocate resources to cover it.
+Alerts the press of an upcoming event so that they can plan to attend _as it happens_ and allocate resources to cover it. 
 
-Keep it well under a page.
+Keep it well under a page. Journalists skim these advisories at best. Save speeches for a blog, press release, or the action itself. Keep it short.
 
 ### When it's due:
 A week prior to the event _or as soon as details finalize if an emergency_.
 
 ### How to structure it (details in template folder):
-* __Logo or Organization Name__
-* __For Release__ _or_ For Immediate Release
+[ ] __Logo or Organization Name__
+[ ] __For Release__ _or_ For Immediate Release
   * Date of Release
-* __For More Information Contact__
+[ ] __For More Information Contact__
   * [Lead Person or Organization Name] [Email] [Phone]
 
-* __EVENT FORMAT AND GOAL, ACTIVE VERBS, UP TO TWO LINES__
+[ ] __EVENT FORMAT AND GOAL, ACTIVE VERBS, UP TO TWO LINES__
   * 'City, State - ' where event occurs followed by not more than 150 words. Keep it brief and reiterate the event's goal, format (march/rally/etc.), key stakeholders, and context in narrative form.
 
-* Restate on each line prefaced by What/Who/When/Where. Journalists skim these advisories at best. Save speeches for a blog, press release, or the action itself. Keep it short.
+[ ] Restate What/Who/When/Where. 
   * __What__	Format (march/rally/etc.) and Goal
   * __Who__	Key Stakeholders or Speakers	
   * __When__	Weekday, Month Date, Year from Time AM/PM to End Time AM/PM
@@ -44,13 +44,13 @@ Long form description to the press, community organizations, and politicians of 
 Should be draft by day prior and distributed not more than two days prior and up to the day of the event.
 
 ### How to structure it (details in template folder):
-* __Logo or Organization Name__
-* __For Release__ _or_ For Immediate Release
+[ ] __Logo or Organization Name__
+[ ] __For Release__ _or_ For Immediate Release
   * Date of Release
-* __For More Information Contact__
+[ ] __For More Information Contact__
   * [Lead Person or Organization Name] [Email] [Phone]
 
-* __EVENT FORMAT AND GOAL, ACTIVE VERBS, UP TO TWO LINES__
+[ ] __EVENT FORMAT AND GOAL, ACTIVE VERBS, UP TO TWO LINES__
   * One sentence summary of below paragraph(s).
   * 'City, State - ' where event occurs followed by not more than four paraggraphs or 500 words. Keep it brief and reiterate the event's goal, format (march/rally/etc.), key stakeholders, and context in narrative form.
 
