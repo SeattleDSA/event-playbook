@@ -1,15 +1,15 @@
 # event-playbook
  Guidelines for Media Advisory, Press Release, Speaker Prep, and Security Planning.
 
-# Purpose
+## Purpose
 Any action requires tremendous trust from the community, from partners. Building that trust requires clear planning, resolving concerns and anxieties, and creating a dependable foundation for the _collective vision of all stakeholders_ takes shape.
 
-# Structure
+## Structure
 Each item below has a brief description of what it's for, due date, and then how to write it.
 
 There will be completed examples in the _examples_ folder and ready-to-enter templates in the _templates_ folder.
 
-# Media Advisory
+## Media Advisory
 ### What it's for:
 Alerts the press of an upcoming event so that they can plan to attend _as it happens_ and allocate resources to cover it.
 
@@ -36,7 +36,7 @@ A week prior to the event _or as soon as details finalize if an emergency_.
 
 '###' on the final line.
 
-# Press Release
+## Press Release
 ### What it's for:
 Long form description to the press, community organizations, and politicians of an event that takes place soon or already took place.
 
@@ -56,7 +56,7 @@ Should be draft by day prior and distributed not more than two days prior and up
 
  '###' on the final line.
 
-# Working with Printing Press
+## Working with Printing Press
 ### Union-Made
 Use a unionized printing shop and ask that they include their union affliation (sometimes referred to as "the bug" due to small size).
 
@@ -66,7 +66,7 @@ Most printers require a week or two of lead time. Under a week is possible but m
 ### Working with Community
 Do not use a community organization's logo if they haven't endorsed through internal decision process (union vote, executive committee, etc.). Doing so may decrease confidence in our organization as a trusted partner for future actions.
 
-# Talking Points and Speaker Prep (Pending)
+## Talking Points and Speaker Prep (Pending)
 ### What it's for:
 Prepare both organizers of the events, speakers, and coalition partners.
 
@@ -76,7 +76,7 @@ Prepare both organizers of the events, speakers, and coalition partners.
 ### How to structure it:
 'Work in Progress'
 
-# Security Plan (Pending)
+## Security Plan (Pending)
 ### What it's for:
 Helps coordinate event security, parade marshalls, observers, key stakeholders. This document helps to ease fears and tensions around events.
 
