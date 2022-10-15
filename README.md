@@ -28,7 +28,7 @@ A week prior to the event _or as soon as details finalize if an emergency_.
 * __EVENT FORMAT AND GOAL, ACTIVE VERBS, UP TO TWO LINES__
   * 'City, State - ' where event occurs followed by not more than 150 words. Keep it brief and reiterate the event's goal, format (march/rally/etc.), key stakeholders, and context in narrative form.
 
-* Restate on each line prefaced by What/Who/When/Where. Press skim these advisories.
+* Restate on each line prefaced by What/Who/When/Where. Journalists skim these advisories at best. Save speeches for a blog, press release, or the action itself. Keep it short.
   * __What__	Format (march/rally/etc.) and Goal
   * __Who__	Key Stakeholders or Speakers	
   * __When__	Weekday, Month Date, Year from Time AM/PM to End Time AM/PM
