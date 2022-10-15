@@ -34,7 +34,7 @@ A week prior to the event _or as soon as details finalize if an emergency_.
   * __When__	Weekday, Month Date, Year from Time AM/PM to End Time AM/PM
   * __Where__	Physical Address of starting location 'plus' directions to nearby transit and parking.
 
-'###' on the final line.
+- [ ] '###' on the final line.
 
 ## Press Release
 ### What it's for:
@@ -54,7 +54,7 @@ Should be draft by day prior and distributed not more than two days prior and up
   * One sentence summary of below paragraph(s).
   * 'City, State - ' where event occurs followed by not more than four paraggraphs or 500 words. Keep it brief and reiterate the event's goal, format (march/rally/etc.), key stakeholders, and context in narrative form.
 
- '###' on the final line.
+- [ ] '###' on the final line.
 
 ## Working with Printing Press
 ### Union-Made
