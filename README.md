@@ -10,15 +10,15 @@ Each item below has a brief description of what it's for, due date, and then how
 There will be completed examples in the _examples_ folder and ready-to-enter templates in the _templates_ folder.
 
 # Media Advisory
-## What it's for:
+### What it's for:
 Alerts the press of an upcoming event so that they can plan to attend _as it happens_ and allocate resources to cover it.
 
 Keep it well under a page.
 
-## When it's due:
+### When it's due:
 A week prior to the event _or as soon as details finalize if an emergency_.
 
-## How to structure it (details in template folder):
+### How to structure it (details in template folder):
 * __Logo or Organization Name__
 * __For Release__ _or_ For Immediate Release
   * Date of Release
@@ -37,13 +37,13 @@ A week prior to the event _or as soon as details finalize if an emergency_.
 '###' on the final line.
 
 # Press Release
-## What it's for:
+### What it's for:
 Long form description to the press, community organizations, and politicians of an event that takes place soon or already took place.
 
-## When it's due:
+### When it's due:
 Should be draft by day prior and distributed not more than two days prior and up to the day of the event.
 
-## How to structure it (details in template folder):
+### How to structure it (details in template folder):
 * __Logo or Organization Name__
 * __For Release__ _or_ For Immediate Release
   * Date of Release
@@ -57,31 +57,31 @@ Should be draft by day prior and distributed not more than two days prior and up
  '###' on the final line.
 
 # Working with Printing Press
-## Union-Made
+### Union-Made
 Use a unionized printing shop and ask that can put their union affliation (sometimes referred to as "the bug" due to small size).
 
-## Timelines
+### Timelines
 Most printers require a week or two of lead time. Under a week is possible but may incur additional expenses. Make sure to finalize designs and get approval from stakeholders and community partners. 
 
-## Working with Community
+### Working with Community
 Do not use a community organization's logo if they haven't endorsed through internal decision process (union vote, executive committee, etc.). Doing so may decrease confidence in our organization as a trusted partner for future actions.
 
 # Talking Points and Speaker Prep (Pending)
-## What it's for:
+### What it's for:
 Prepare both organizers of the events, speakers, and coalition partners.
 
-## When it's due:
+### When it's due:
 'Work in Progress'
 
-## How to structure it:
+### How to structure it:
 'Work in Progress'
 
 # Security Plan (Pending)
-## What it's for:
+### What it's for:
 Helps coordinate event security, parade marshalls, observers, key stakeholders. This document helps to ease fears and tensions around events.
 
-## When it's due:
+### When it's due:
 'Work in Progress'
 
-## How to structure it:
+### How to structure it:
 'Work in Progress'
