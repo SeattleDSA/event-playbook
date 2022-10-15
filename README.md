@@ -70,11 +70,10 @@ Do not use a community organization's logo if they haven't endorsed through inte
 ### What it's for:
 Prepare both organizers of the events, speakers, and coalition partners.
 
-### When it's due:
-'Work in Progress'
-
-### How to structure it:
-'Work in Progress'
+### Advice:
+- [ ] Identify points of unity with coalition partners at least a week before. Encourage and support natural leaders in coalition partnerships. Points of unity and. 
+- [ ] Make sure mutual points of unity are identified. Just because community helps organize an action doesn't mean every point is agreed on. If you're speaking on behalf of DSA, be sure to mention this to the press and have support from the membership and local council.
+- [ ] Security planning is important to ensure people feel safe and confident stepping forward in an action. Lack of confidence in a security plan may lead to cancellations over their safety.
 
 ## Security Plan (Pending)
 ### What it's for:
