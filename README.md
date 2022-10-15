@@ -56,6 +56,16 @@ Should be draft by day prior and distributed not more than two days prior and up
 
  '###' on the final line.
 
+# Working with Printing Press
+## Union-Made
+Use a unionized printing shop and ask that can put their union affliation (sometimes referred to as "the bug" due to small size).
+
+## Timelines
+Most printers require a week or two of lead time. Under a week is possible but may incur addtiionals expenses. Make sure to finalize designs and get approval from stakeholders and community partners. 
+
+## Working with Community
+Do not use a community organization's logo if they haven't endorsed through internal decision process (union vote, executive committee, etc.). Doing so may decrease confidence in our organization as a trusted partner for future actions.
+
 # Talking Points and Speaker Prep (Pending)
 ## What it's for:
 Prepare both organizers of the events, speakers, and coalition partners.
