@@ -58,7 +58,7 @@ Should be draft by day prior and distributed not more than two days prior and up
 
 # Working with Printing Press
 ### Union-Made
-Use a unionized printing shop and ask that can put their union affliation (sometimes referred to as "the bug" due to small size).
+Use a unionized printing shop and ask that they include their union affliation (sometimes referred to as "the bug" due to small size).
 
 ### Timelines
 Most printers require a week or two of lead time. Under a week is possible but may incur additional expenses. Make sure to finalize designs and get approval from stakeholders and community partners. 
